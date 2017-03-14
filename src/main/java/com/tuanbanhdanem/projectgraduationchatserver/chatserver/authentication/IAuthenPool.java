@@ -3,9 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.tuanbanhdanem.projectgraduationchatserver.chatserver.socketserver.authentication;
+package com.tuanbanhdanem.projectgraduationchatserver.chatserver.authentication;
 
-import com.tuanbanhdanem.projectgraduationchatserver.chatserver.socketserver.authentication.imp.UnAuthenticatedConnection;
+import com.tuanbanhdanem.projectgraduationchatserver.chatserver.authentication.imp.UnAuthenticatedConnection;
+import com.tuanbanhdanem.projectgraduationchatserver.chatserver.authentication.imp.UnAuthenticatedConnection;
 
 /**
  *

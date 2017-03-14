@@ -3,12 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.tuanbanhdanem.projectgraduationchatserver.chatserver.socketserver.authentication.imp;
+package com.tuanbanhdanem.projectgraduationchatserver.chatserver.pojos.message.messagetype;
 
 /**
  *
- * @author tuantran
+ * @author tuan
  */
-public class AuthenPool {
-    
+public enum MessageType {
+    PP,
+    AUTH
 }

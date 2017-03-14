@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.tuanbanhdanem.projectgraduationchatserver.chatserver.socketserver.authentication.imp;
+package com.tuanbanhdanem.projectgraduationchatserver.chatserver.authentication.imp;
 
 import com.corundumstudio.socketio.SocketIOClient;
 

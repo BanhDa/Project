@@ -11,7 +11,7 @@ package com.tuanbanhdanem.projectgraduationchatserver.utils.config;
  */
 public class ServerConfig {
     public static String SERVER_HOST = "localhost";
-    public static int SERVER_PORT = 9000;
+    public static int SERVER_PORT = 9119;
     public static int LOG_RUNNER_NUMBER = 5;    
     public static String LOG_FILE = "logger.log";
     public static String LOG_PATTERN = "[%p] %m%n";

@@ -37,4 +37,9 @@ public class Util {
         Date d = new Date(time);
         return d;
     }
+    
+    public static long currentTime(){
+        TimeZone tz = TimeZone.getDefault();
+        return System.currentTimeMillis() - tz.getRawOffset();
+    }  
 }
